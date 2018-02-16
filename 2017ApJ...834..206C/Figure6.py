@@ -1,3 +1,6 @@
+# This script was adapted from http://scipy.github.io/old-wiki/pages/Cookbook/FittingData
+
+
 from pylab import *
 from scipy import *
 from scipy import optimize
